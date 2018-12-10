@@ -1,0 +1,14 @@
+c:\users\calik\onedrive\documents\visual studio 2015\Projects\ticketSeller\ticketSeller\bin\Debug\ticketSeller.exe.config
+C:\Users\calik\OneDrive\Documents\Visual Studio 2015\Projects\ticketSeller\ticketSeller\bin\Debug\ticketSeller.exe
+C:\Users\calik\OneDrive\Documents\Visual Studio 2015\Projects\ticketSeller\ticketSeller\bin\Debug\ticketSeller.pdb
+C:\Users\calik\OneDrive\Documents\Visual Studio 2015\Projects\ticketSeller\ticketSeller\bin\Debug\ticketSeller.xml
+C:\Users\calik\OneDrive\Documents\Visual Studio 2015\Projects\ticketSeller\ticketSeller\obj\Debug\ticketSeller.vbprojResolveAssemblyReference.cache
+C:\Users\calik\OneDrive\Documents\Visual Studio 2015\Projects\ticketSeller\ticketSeller\obj\Debug\ticketSeller.frmNewGame.resources
+C:\Users\calik\OneDrive\Documents\Visual Studio 2015\Projects\ticketSeller\ticketSeller\obj\Debug\ticketSeller.frmReports.resources
+C:\Users\calik\OneDrive\Documents\Visual Studio 2015\Projects\ticketSeller\ticketSeller\obj\Debug\ticketSeller.frmSellTickets.resources
+C:\Users\calik\OneDrive\Documents\Visual Studio 2015\Projects\ticketSeller\ticketSeller\obj\Debug\ticketSeller.frmTicketSellerMain.resources
+C:\Users\calik\OneDrive\Documents\Visual Studio 2015\Projects\ticketSeller\ticketSeller\obj\Debug\ticketSeller.Resources.resources
+C:\Users\calik\OneDrive\Documents\Visual Studio 2015\Projects\ticketSeller\ticketSeller\obj\Debug\ticketSeller.vbproj.GenerateResource.Cache
+C:\Users\calik\OneDrive\Documents\Visual Studio 2015\Projects\ticketSeller\ticketSeller\obj\Debug\ticketSeller.exe
+C:\Users\calik\OneDrive\Documents\Visual Studio 2015\Projects\ticketSeller\ticketSeller\obj\Debug\ticketSeller.xml
+C:\Users\calik\OneDrive\Documents\Visual Studio 2015\Projects\ticketSeller\ticketSeller\obj\Debug\ticketSeller.pdb
